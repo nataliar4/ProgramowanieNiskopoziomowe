@@ -139,7 +139,7 @@ int main() {
 	zlozonosc wynosi O(n^2) wynika to z faktu, iz n razy musi przeleciec przez (n minus iteracja)
 	elementow i sprawia, iz z wszystkich 3 jest on najwolniejszy. Zaraz po nim znajduje sie
 	sortowanie przez kopcowanie, ktory ma coprawda ta sama zlozonosc co sortowanie szybkie
-	czyli O(n log(n)) lecz w ka¿dej iteracji wymaga wykonania wiekszej ilosci operacji co
+	czyli O(n log(n)) lecz w kaÂ¿dej iteracji wymaga wykonania wiekszej ilosci operacji co
 	sprawia, ze jest on wolniejszy. Sortowanie szybkie jest najszybszym algorytmem dla tego
 	zestawu danych ale w aktualnej implementacji radzi on sobie najlepiej dla danych losowych
 	nie monotonicznych co sprawia, ze jest on jedynym z 3 algorytmow, ktory posiada duza
